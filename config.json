@@ -1,0 +1,15 @@
+{
+
+    "token": "",
+    "APIKey": "28B54YG92-0485-470F-AB4D-C543FGFS3E2-AF9C5351-9SS7-499B0-A7E2-545GWEFA6",
+	"guildId": "0",
+    "clientID": "0",
+    "logsChannel": "0",
+    "commandLogsChannel": "0",
+
+    "status": {
+        "type": "Playing",
+        "text": "Running discord.js v14",
+        "online": "dnd"
+    }
+}
