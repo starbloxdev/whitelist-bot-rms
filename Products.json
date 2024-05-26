@@ -1,62 +1,62 @@
 {
-    "10235782066": {
+    "16634316529": {
         "Name": "Starter Bundle",
         "Price": 800,
         "Whitelist": "starter",
         "Role": "Starter Files",
-        "Channel": "1083590146370326578",
+        "Channel": "1244320634570407968",
         "GBP": 5.00,
-        "Guild": "1079980306448253041",
-        "Invite": "https://discord.gg/XZa8s7krY6",
+        "Guild": "1244320632863461436",
+        "Invite": "https://discord.gg/z72SXtQWVa",
         "JSON": "./whitelists/Starter.json",
-        "ChoiceName": "DRS-Starter"
+        "ChoiceName": "RMS-Starter"
     },
-    "10431117155": {
+    "16634334478": {
         "Name": "Upgrade Bundle",
         "Price": 450,
         "Whitelist": "upgrade",
         "Role": "Upgrade Files",
-        "Channel": "1083590146370326578",
+        "Channel": "1244320634570407969",
         "GBP": 4.00,
-        "Guild": "1079980306448253041",
-        "Invite": "https://discord.gg/XZa8s7krY6",
+        "Guild": "1244320632863461436",
+        "Invite": "https://discord.gg/z72SXtQWVa",
         "JSON": "./whitelists/Upgrade.json",
-        "ChoiceName": "DRS-Upgrade"
+        "ChoiceName": "RMS-Upgrade"
     },
-    "10637876659": {
+    "16634346737": {
         "Name": "Vocovo",
         "Price": 500,
         "Whitelist": "vocovo",
         "Role": "Vocovo Files",
-        "Channel": "1083590146370326578",
+        "Channel": "1244320634570407970",
         "GBP": 3.00,
-        "Guild": "1079980306448253041",
-        "Invite": "https://discord.gg/EKzepDYvfB",
+        "Guild": "1244320632863461436",
+        "Invite": "https://discord.gg/z72SXtQWVa",
         "JSON": "./whitelists/Vocovo.json",
-        "ChoiceName": "DRS-Vocovo"
+        "ChoiceName": "RMS-Vocovo"
     },
-    "13243007190": {
+    "16634340861": {
         "Name": "Hotel POS",
         "Price": 500,
         "Whitelist": "hotel",
         "Role": "Hotel Files",
-        "Channel": "1083590146370326578",
+        "Channel": "1244320634570407971",
         "GBP": 3.00,
-        "Guild": "1079980306448253041",
-        "Invite": "https://discord.gg/XZa8s7krY6",
+        "Guild": "1244320632863461436",
+        "Invite": "https://discord.gg/z72SXtQWVa",
         "JSON": "./whitelists/Hotel.json",
-        "ChoiceName": "DRS-Hotel"
+        "ChoiceName": "RMS-Hotel"
     },
     "13243009458": {
         "Name": "Restaurant POS",
         "Price": 500,
         "Whitelist": "restaurant",
         "Role": "Restaurant Files",
-        "Channel": "1083590146370326578",
+        "Channel": "1244320634570407972",
         "GBP": 3.00,
-        "Guild": "1079980306448253041",
-        "Invite": "https://discord.gg/XZa8s7krY6",
+        "Guild": "1244320632863461436",
+        "Invite": "https://discord.gg/z72SXtQWVa",
         "JSON": "./whitelists/Restaurant.json",
-        "ChoiceName": "DRS-Restaurant"
+        "ChoiceName": "RMS-Restaurant"
     }
 }
