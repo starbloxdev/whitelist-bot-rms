@@ -1,11 +1,11 @@
 {
 
-    "token": "",
+    "token": "MTI0NDMyMzA2Nzk0NjA3ODI4OA.GnjGsZ.cdqBCLHlB0iPlhSi3Q8RZCrd6YUSOVGdYyKCDU",
     "APIKey": "28B54YG92-0485-470F-AB4D-C543FGFS3E2-AF9C5351-9SS7-499B0-A7E2-545GWEFA6",
-	"guildId": "0",
-    "clientID": "0",
-    "logsChannel": "0",
-    "commandLogsChannel": "0",
+	"guildId": "1244320632863461436",
+    "clientID": "1244323067946078288",
+    "logsChannel": "1244320634817876036",
+    "commandLogsChannel": "1244320634415222792",
 
     "status": {
         "type": "Playing",
